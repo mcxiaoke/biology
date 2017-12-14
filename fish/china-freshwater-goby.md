@@ -3,6 +3,7 @@
 
 <!-- TOC -->
 
+- [前言](#前言)
 - [粘皮鲻虾虎鱼](#粘皮鲻虾虎鱼)
 - [奥氏拟虾虎鱼](#奥氏拟虾虎鱼)
 - [大鳞鳍虾虎鱼](#大鳞鳍虾虎鱼)
@@ -54,6 +55,16 @@
 - [萨氏华黝鱼](#萨氏华黝鱼)
 
 <!-- /TOC -->
+
+## 前言
+
+本文链接：[https://github.com/mcxiaoke/biology](https://github.com/mcxiaoke/biology)
+
+本文按《中国动物志鲈形目虾虎鱼亚目》的顺序整理，资料来自：
+
+- [中国动物志数据库](http://www.zoology.csdb.cn/page/showTreeMap.vpage?uri=cnfauna.tableTaxa)
+- [国家水产种质资源平台](http://www.fishinfo.cn/searcher_indexpage.jsp?urltype=tree.TreeTempUrl&wbtreeid=1029)
+- [FishBase鱼类数据库](http://fishbase.org/search.php)
 
 ## 粘皮鲻虾虎鱼
 
