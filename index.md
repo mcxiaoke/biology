@@ -1,5 +1,5 @@
-中国原生鱼
+Contents
 ------
 
-- [中国原生鱼：北京的鱼类](fish/中国原生鱼：北京的鱼类.md)
-- [中国原生鱼：淡水虾虎鱼](fish/中国原生鱼：淡水虾虎鱼.md)
+- [中国原生鱼：北京的鱼类](fish/beijing-native-fishes.md)
+- [中国原生鱼：淡水虾虎鱼](fish/china-freshwater-goby.md)
