@@ -9,4 +9,4 @@
 
 # 中国植物
 
-- [中国植物：绿绒蒿属植物](plants/meconopsis.md)
+- [中国植物：绿绒蒿属植物图鉴](plants/meconopsis.md)
